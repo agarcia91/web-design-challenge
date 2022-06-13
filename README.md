@@ -60,7 +60,7 @@ Ensure your repository has regular commits and a descriptive `README.md` file.
 
 ### Considerations
 
-* You may use the weather data you collected for the WeatherPy section of your Python-APIs Homework, or you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
+* You may use the weather data you collected for the WeatherPy section of your Python-APIs Homework, or you may use the included [cities dataset] and pull the images from the [assets folder].
 
 * You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the Bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
 
